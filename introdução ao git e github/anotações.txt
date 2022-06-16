@@ -1,0 +1,26 @@
+INTRODUÇÃO 
+- O Git é um software de versionamento de código;
+- Git é diferente de GitHub
+
+COMANDOS BÁSICOS P/ NAVEGAR NO TERMINAL
+-Windows: -cd
+	-dir
+	-mkdir
+	-del/rmdir
+-Unix: -cd
+            -ls
+            -mkdir
+            -rm -rf
+
+TÓPICOS FUNDAMENTAIS DO GIT
+I- SHA1
+II- Objetos Fundamentais 
+III- Sistema Distribuído
+IV- Segurança
+
+SHA1
+-Algoritmo de Hash Seguro
+-Conjunto de funções hash criptográficas
+-Gera conjunto de characteres identificador de 40 dígitos
+-Identificar arquivos de uma forma segura
+-Uma forma curta de representar um arquivo
